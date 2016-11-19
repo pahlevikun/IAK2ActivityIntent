@@ -1,0 +1,7 @@
+#Sat Nov 19 13:48:56 WIB 2016
+base.0=/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_06a8295631587b4c6fb48417c902eebec3a1f48c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e1969baf8f83361688c1f9dd7221382b8859bd/classes.dex
+base.1=/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e1969baf8f83361688c1f9dd7221382b8859bd
+file.0=/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_06a8295631587b4c6fb48417c902eebec3a1f48c/classes.dex

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9aa0aeb57a9bad4095cd4fad765cf5ccca4033bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e432e027eaa364b7400b04e26c6f726265d4ec69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_805d2c74a2941d08137ff4dd1ab98838cd4fdca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ddd9d02a0ed24dfe8331b9d2712902f63398c555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_02686f3047b26fe198078b0f1daa3939accf28c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_cc54dfa70ada3d0df369e5722dd068b2d0953aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_91c0aeaee526e14ce19a0ae6f08d8cbaedf37c9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6eaf018d01a598705f3c75d7eb1e03d00feff70b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b18fa76fe956a6ad88d61d448a4794cec4c2ab7">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_06a8295631587b4c6fb48417c902eebec3a1f48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cdb6b9eef525b793cfb433f1f7bbe441a6ef2d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a4c9e703fefd24bbe635f3bbd8b52f4ef9979e06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_b20e00552f0c0534c3d254fe9680ae351c9a3c64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="022def573188fc7e6d00c4cecc412ca85acc7323">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2e1969baf8f83361688c1f9dd7221382b8859bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_16600719242047c405356a4a0ba8f5ba526d1e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_939684d44d15b92f776a4677f8f443aa5959878a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_d8325953d06bbe563aa86d29c7b75f2b5038d245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/farhan/Downloads/LinearLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ddd5079f7b2c9c41dfd8aeffda0a2f3a3aadc6b1/classes.dex" />
+    </item>
+
+</items>
